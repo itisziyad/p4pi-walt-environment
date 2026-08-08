@@ -1,0 +1,13 @@
+*.img
+*.iso
+*.qcow2
+*.zip
+*.tar
+*.tar.gz
+*.log
+*.tmp
+*.pyc
+__pycache__/
+.venv/
+.vagrant/
+.DS_Store
